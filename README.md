@@ -5,14 +5,12 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitimde oluşturduğum
 # Installation 
 
 Öncelikle projeyi clonelayın.
-''' bash
-git clone 
-https://github.com/cerentpz/kodluyoruzilkrepo.git
-'''
+
+```bash
+git clone (https://github.com/cerentpz/kodluyoruzilkrepo.git)
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-'''
 
-'''
 
